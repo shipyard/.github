@@ -1,0 +1,9 @@
+{
+    "name": "Print Shipyard env data",
+    "description": "Auth into your Shipyard org and fetch Shipyard/Cypress env vars",
+    "iconName": "octicon project-roadmap",
+    "categories": [
+        "continuous-integration",
+        "continuous-delivery"
+    ]
+}
