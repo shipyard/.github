@@ -52,5 +52,5 @@ brew install shipyard
 Want to engage with the Shipyard community? Send us an email at hello@shipyard.build. You can also:
 - [Join our Slack](https://shipyardcommunity.slack.com/join/shared_invite/zt-1y44cpq6u-rJT~kg9wArqxP~N1F3K_pA#/shared-invite/email)
 - [Check out our blog](https://shipyard.build/blog)
-- [Follow us on LinkedIn](https://www.linkedin.com/company/shipyardbuild/)
+- [Follow us on LinkedIn](https://www.linkedin.com/company/shipyard)
 - [Find us on Bluesky](https://bsky.app/profile/shipyardbuild.bsky.social)
