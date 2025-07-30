@@ -4,11 +4,11 @@ Welcome to Shipyard’s official GitHub! Here we offer some resources to help yo
 
 ## What’s Shipyard?
 
-Shipyard is an **Environment Management** platform. It creates ephemeral, on-demand copies of your app every time you open a PR. You can share these environments with SSO-enabled links, run E2E and unit tests against them, and integrate them into your CI/CD pipeline. With Shipyard, all you'll need to start deploying environments is a **Docker Compose** file.
+Shipyard is an **Environment Management** platform for developers and their agents. It creates ephemeral, on-demand copies of your app every time you open a PR. You can share these environments with SSO-enabled links, run E2E and unit tests against them, use them in agentic workflows, and integrate them into your CI/CD pipeline. With Shipyard, all you'll need to start deploying environments is a **Docker Compose** file.
 
 ## What’s an ephemeral environment?
 
-Ephemeral environments are full-stack, production-like copies of your app. You're able to spin them up automatically when opening a new PR, and spin them down when you no longer need them. Ephemeral environments are an industry best practice when building and testing pre-production branches. 
+Ephemeral environments are full-stack, production-like copies of your app. You're able to spin them up automatically when opening a new PR, and spin them down when you no longer need them. Ephemeral environments are an industry best practice when building and testing during pre-production. 
 
 *Read more at [ephemeralenvironments.io](https://ephemeralenvironments.io)*
 
@@ -52,5 +52,6 @@ brew install shipyard
 Want to engage with the Shipyard community? Send us an email at hello@shipyard.build. You can also:
 - [Join our Slack](https://shipyardcommunity.slack.com/join/shared_invite/zt-1y44cpq6u-rJT~kg9wArqxP~N1F3K_pA#/shared-invite/email)
 - [Check out our blog](https://shipyard.build/blog)
+- [Visit our Agentic Corner](https://shipyard.build/agents)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/shipyard)
 - [Find us on Bluesky](https://bsky.app/profile/shipyard.build)
