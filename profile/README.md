@@ -1,6 +1,6 @@
 <img src="https://shipyard.build/images/shipyard-teal.png" width="40%">
 
-Welcome to Shipyard’s official GitHub! Here we offer some resources to help you get started with your deployments. For more information, [check out our docs.](https://docs.shipyard.build/docs)
+Welcome to Shipyard’s official GitHub! Here we offer some resources to help you get started with your deployments. For more information, [check out our docs.](https://docs.shipyard.build/)
 
 ## What’s Shipyard?
 
