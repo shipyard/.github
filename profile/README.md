@@ -54,11 +54,15 @@ Use the [Shipyard MCP server](https://github.com/shipyard/shipyard-cli?tab=readm
 
 Install for Claude Code:
 
-`claude mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve`
+```sh
+claude mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve
+```
 
 Install for Codex CLI:
 
-`codex mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve`
+```sh
+codex mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve
+```
 
 
 ## Community
