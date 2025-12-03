@@ -48,10 +48,22 @@ brew tap shipyard/tap
 brew install shipyard
 ```
 
+## Shipyard MCP Server
+
+Use the [Shipyard MCP server](https://github.com/shipyard/shipyard-cli?tab=readme-ov-file#model-context-protocol-mcp-integration) to manage ephemeral environments with your coding agent.
+
+Install for Claude Code:
+
+`claude mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve`
+
+Install for Codex CLI:
+
+`codex mcp add shipyard --env SHIPYARD_API_TOKEN=your-token-here --env SHIPYARD_ORG=your-org-name -- shipyard mcp serve`
+
+
 ## Community
 Want to engage with the Shipyard community? Send us an email at hello@shipyard.build. You can also:
 - [Join our Slack](https://shipyardcommunity.slack.com/join/shared_invite/zt-1y44cpq6u-rJT~kg9wArqxP~N1F3K_pA#/shared-invite/email)
 - [Check out our blog](https://shipyard.build/blog)
-- [Visit our Agentic Corner](https://shipyard.build/agents)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/shipyard)
 - [Find us on Bluesky](https://bsky.app/profile/shipyard.build)
