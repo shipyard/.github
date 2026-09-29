@@ -1,4 +1,6 @@
-<img src="https://shipyard.build/images/shipyard-teal.png" width="40%">
+<img src="https://raw.githubusercontent.com/shipyard/.github/main/profile/shipyard-logo.png" width="40%">
+
+Shipyard is now part of StackGen. [Read why →](https://stackgen.com/blog/shipyard-joins-stackgen)
 
 Welcome to Shipyard’s official GitHub! Here we offer some resources to help you get started with your deployments. For more information, [check out our docs.](https://docs.shipyard.build/)
 
@@ -8,7 +10,7 @@ Shipyard is an **Environment Management** platform for developers and their agen
 
 ## What’s an ephemeral environment?
 
-Ephemeral environments are full-stack, production-like copies of your app. You're able to spin them up automatically when opening a new PR, and spin them down when you no longer need them. Ephemeral environments are an industry best practice when building and testing during pre-production. 
+Ephemeral environments are full-stack copies of your app. You're able to spin them up automatically when opening a new PR, and spin them down when you no longer need them. Ephemeral environments are an industry best practice when building and testing during pre-production. 
 
 *Read more at [ephemeralenvironments.io](https://ephemeralenvironments.io)*
 
@@ -71,3 +73,4 @@ Want to engage with the Shipyard community? Send us an email at hello@shipyard.b
 - [Check out our blog](https://shipyard.build/blog)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/shipyard)
 - [Find us on Bluesky](https://bsky.app/profile/shipyard.build)
+- [Learn more about StackGen](https://stackgen.com)
